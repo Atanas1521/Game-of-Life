@@ -1,0 +1,10 @@
+.titleContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
